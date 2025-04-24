@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f45dcda4-2fd9-44a6-9ee4-43b61cd8f512" name="Changes" comment="Contenido Primer Curso Java">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursos/Java_Aplicando la Orientacion a Objetos/screenmatch/src/Pelicula.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursos/Java_Aplicando la Orientacion a Objetos/screenmatch/src/com/aluracursos/screenmatch/modelos/Pelicula.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cursos/Java_Aplicando la Orientacion a Objetos/screenmatch/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Cursos/Java_Aplicando la Orientacion a Objetos/screenmatch/src/Principal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenmatch/Pelicula.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/screenmatch/Principal.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Cursos/Java_Aplicando la Orientacion a Objetos" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;SAZA-KARTIAN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/SAZA-KARTIAN/Form-Back-End-Alura-LATAM.git&quot;,
+    &quot;accountId&quot;: &quot;f2ee51be-0a4c-4c7e-a7da-41cba9d97638&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2w7BpkbCmnh0V8rjisQ6qDyeKki" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Aplicación.Principal.executor": "Run",
+    "Aplicación.contador.executor": "Run",
+    "Application.Desafio.executor": "Run",
+    "Application.contador.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Priscila Quijada/Documents/Mi primera aplicación/Form-Back-End-Alura-LATAM/Cursos/Java_Creando tu primera aplicacion/Contenido/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.language.and.region"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Priscila Quijada\Documents\Mi primera aplicación\Form-Back-End-Alura-LATAM\Cursos\Java_Creando tu primera aplicacion\Contenido\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Priscila Quijada\Documents\Mi primera aplicación\Form-Back-End-Alura-LATAM\Cursos\Java_Aplicando la Orientacion a Objetos\screenmatch" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Desafio" />
+      <module name="Desafio" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contador" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="contador" />
+      <module name="Contenido" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Aplicación.contador" />
+        <item itemvalue="Aplicación.Desafio" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f45dcda4-2fd9-44a6-9ee4-43b61cd8f512" name="Changes" comment="" />
+      <created>1745382917035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745382917035</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Contenido Primer Curso Java">
+      <option name="closed" value="true" />
+      <created>1745383528343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745383528343</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Contenido Primer Curso Java">
+      <option name="closed" value="true" />
+      <created>1745384011922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745384011922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Contenido Primer Curso Java">
+      <option name="closed" value="true" />
+      <created>1745384181009</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745384181009</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Contenido Primer Curso Java">
+      <option name="closed" value="true" />
+      <created>1745462484635</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745462484635</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Contenido Primer Curso Java">
+      <option name="closed" value="true" />
+      <created>1745462504506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745462504506</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Contenido Primer Curso Java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Contenido Primer Curso Java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Cursos/Java_Creando tu primera aplicacion/Contenido/Códigos/contador.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
